@@ -49,6 +49,6 @@ public class HourlyEmployee extends Employee
         System.out.println(mas.earnings());
         mas.setHour(168);
         System.out.println(mas.toString());
-
+        System.out.println(mas.earnings());
     }
 }
